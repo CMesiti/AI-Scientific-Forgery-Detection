@@ -7,4 +7,7 @@
 
 # Dataset
 - We are using the kaggle provided dataset [KaggleDataset](https://www.kaggle.com/competitions/recodai-luc-scientific-image-forgery-detection/data) containing biomedical, forged and authentic images with their corresponing masks.
-  
+
+<img width="910" height="464" alt="image" src="https://github.com/user-attachments/assets/045b7b52-069b-4d71-b921-12fb51ef31d8" />
+
+
