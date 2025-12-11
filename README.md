@@ -10,4 +10,7 @@
 
 <img width="910" height="464" alt="image" src="https://github.com/user-attachments/assets/045b7b52-069b-4d71-b921-12fb51ef31d8" />
 
+# Pre-Processing:
+<img width="1174" height="552" alt="image" src="https://github.com/user-attachments/assets/3d82cb30-1eea-432e-a992-11e96ce971c2" />
+
 
