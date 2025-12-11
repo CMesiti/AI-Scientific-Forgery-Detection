@@ -4,3 +4,7 @@
 - In this competition, you’ll develop models that detect and segment copy-move forgeries in biomedical images. The benchmark is based on several hundred confirmed forgeries pulled from more than 2,000 retracted papers, making it one of the most realistic and detailed datasets in scientific image forensics. You’ll be evaluated on how well your model finds and separates copied regions at the pixel level.
 - If successful, your work won’t just flag suspicious figures. It could help reshape the way journals, reviewers, and institutions verify published science by detecting misconduct before it spreads.
 - Let’s keep science honest, one pixel at a time.
+
+# Dataset
+- We are using the kaggle provided dataset [KaggleDataset](https://www.kaggle.com/competitions/recodai-luc-scientific-image-forgery-detection/data) containing biomedical, forged and authentic images with their corresponing masks.
+  
